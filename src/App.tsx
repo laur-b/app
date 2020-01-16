@@ -16,7 +16,7 @@ const App: React.FC = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Larn React
+          Lerttarn React
         </a>
       </header>
     </div>
