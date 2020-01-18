@@ -7,5 +7,3 @@
 
 
 FROM node
-WORKDIR /workspaces/app
-RUN npm install
